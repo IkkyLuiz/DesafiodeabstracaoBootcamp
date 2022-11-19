@@ -1,18 +1,17 @@
-## Getting Started
+## Abstraindo os Bootcamps da DIO!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao meu Projeto. Aqui você vai aprender um pouco sobre POO na prática.
 
-## Folder Structure
+## O que você encontra
 
-The workspace contains two folders by default, where:
+Conceiros de POO:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Abstração: construção de objetos semelhantes a vida real.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Encapsulamento: esconder a implementação dos objetos criados.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Herança: passar características de uma classe mãe para classe filha.
 
-## Dependency Management
+Polimorfismo: capacidade de referênciar um objeto de diversas formas.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+e ainda foi possível calcular o XP dos alunos e entender melhor os conceitos de programação orientada a objetos. Para desenvolver este projeto foi utilizado o Visual Studio Code.
